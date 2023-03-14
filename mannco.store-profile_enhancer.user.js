@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ImproveProfile
+// @name         Mannco.Store profile enhancer
 // @namespace    https://github.com/LucasHenriqueDiniz
 // @version      0.11
 // @description  Add button to remove AllBUyOrders, Export BuyOrders and Transactions
