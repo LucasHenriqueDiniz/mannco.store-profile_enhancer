@@ -1,4 +1,4 @@
-# Mannco.store/profile = enhancer
+# Mannco.store/profile - enhancer
 Add's:
 - RemoveAll Buy Orders button
 - Excel export for Buy Orders
