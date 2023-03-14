@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Mannco.Store profile enhancer
+// @name         ImproveProfile
 // @namespace    https://github.com/LucasHenriqueDiniz
 // @version      0.11
 // @description  Add button to remove AllBUyOrders, Export BuyOrders and Transactions
@@ -8,6 +8,13 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=mannco.store
 // @require      https://unpkg.com/xlsx/dist/xlsx.full.min.js
 // @grant        none
+
+// @homepageURL  https://github.com/LucasHenriqueDiniz/mannco.store-profile_enhancer
+// @supportURL   https://github.com/LucasHenriqueDiniz/mannco.store-profile_enhancer/issues
+// @downloadURL  https://github.com/LucasHenriqueDiniz/mannco.store-profile_enhancer/raw/main/mannco.store-profile_enhancer.user.js
+// @updateURL    https://github.com/LucasHenriqueDiniz/mannco.store-profile_enhancer/raw/main/mannco.store-profile_enhancer.user.js
+
+
 // ==/UserScript==
 
 (function () {
